@@ -1,5 +1,8 @@
 # Welcome to My Profile! 👋
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=E-Rick-M)](https://git.io/streak-stats)
+-->
+![GitHub Stars](https://img.shields.io/badge/Stars-100-brightgreen)
 
 ## 🚀 About Me
 - 🔭 Working on cool projects
@@ -7,7 +10,7 @@
 - 👯 I’m open to collaborate on [projects]
 
 ## 🛠 Skills
-- Programming: `JavaScript`, `Python`, `React`,`React-native`,`nodejs`.`Angular`
+- Programming: `JavaScript`, `Python`, `React`,`React-native`,`nodejs`,`Angular`
 - Tools: Git, Docker, Kubernetes
 
 ## 📫 How to Reach Me
